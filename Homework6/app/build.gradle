@@ -18,7 +18,6 @@ android {
         }
     }
 }
-
 dependencies {
     compile 'com.parse.bolts:bolts-android:1.1.2'
     compile fileTree(dir: 'libs', include: 'Parse-*.jar')
